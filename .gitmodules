@@ -1,0 +1,9 @@
+[submodule "ProteanVisualizer-Client"]
+	path = ProteanVisualizer-Client
+	url = https://github.com/jaibeer72/ProteanVisualizer-Client.git
+[submodule "ProteanVisualizer-Server"]
+	path = ProteanVisualizer-Server
+	url = https://github.com/jaibeer72/ProteanVisualizer-Server.git
+[submodule "USalign"]
+	path = USalign
+	url = https://github.com/jaibeer72/USalign.git
