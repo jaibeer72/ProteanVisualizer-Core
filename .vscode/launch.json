@@ -9,7 +9,16 @@
             "request": "launch",
             "name": "Launch Chrome against localhost",
             "url": "http://localhost:3000",
-            "webRoot": "${workspaceFolder}"
+            "webRoot": "${workspaceFolder}",
+            "stopOnEntry": true
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/ProteanVisualizer-Server/server.js", // Update this path to the entry point of your Node.js server script.
+            "runtimeArgs": ["--inspect"], // Optional: To enable debugging using the inspector protocol.
+            "skipFiles": ["<node_internals>/**"]
         }
     ]
 }
