@@ -1,2 +1,8 @@
-Client-version : 0.1.2
+Client-version : 0.1.3
 Server-version : 0.1.1
+
+release notes for client 0.1.3
+- added support for RCSB server calls.
+- added support for PDBj server calls.
+- added 3 cavas layout for 3D viewer.
+- working search 
