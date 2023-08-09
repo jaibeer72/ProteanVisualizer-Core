@@ -1,11 +1,21 @@
 Client-version : 0.1.4
 Server-version : 0.1.2
 
+release notes for client 0.1.4
+- added hover over support
+- added proteain comparision feature
+
+
 release notes for server 0.1.2
 - getting the notation like 
 ------------------------------KVFERCELARTL-KRLGMDGYRGISLANW-----MCL---AKWESGYNTRATNY---NAGDR------STDYGIF-----------Q-------INSRYWCNDGKTPGAV-------------------NACHLSCSALLQDN---------------------------IADAV-----------------------------------------------------A---------------------------------------------------------------------------CAKRVVRDPQGI-RAWVAWRNRCQNRDVRQYVQGCGV-------
                               .::::::::::: ::::.:..  .:.:.      :..   .::  :::.:.:.    .          ..:::.            .       .::  :::::::::::                   :::..                                    ...                                                       .                                                                           ..::::::...  .:                             
 MKVGINGFGRIGRQVFRILHSRGVEVALINDLTDNKTLAHLLKYDSIYHRF--PGEVA-YDDQYLYVDGKAIR--ATAVKDPK-EIPW----AEAGVGVVIEST-GVFTDADKAKAHLEGGAKKVII--TAPAKGEDITIVMGVNHEAYDPSRHHIISNASCTT---------NSLAPVMKVLEEAFGVEKALMTTVHSYTND--QRLLDLPHKDLRRARAAAINIIPTTTGAAKATALVLPSLKGRFDGMALRVPTATGSISDITALLKREVTAEEVNAALKAAAEGPLKGILAYTEDEIVLQDIVMDPHSSIVDAKLTKALGNMVKVFAWYDNEWGYANRVAD-LVE----------------------LVLRKGV
+
+KVF---------------------------ERCELARTLKR--LG-------------------------MDGYRGISLANWMCLAKWE-SGYNTRATNYNAGDRSTDYGIFQINSRYWCNDGKTPGAVNACHLSCSALLQDNIA---DAVAC-AKR-VVRDPQGI------------RAWVAW-RNRCQNR-DVRQYVQ--G-CGV-------------------------------------
+                              .:: :: ::::  .                          .::: .:..:::::::::: :::::               :                           .:..:::   ::::. .:. :..                 ..:::: ::::::. :::...:  . .::                                     
+---HLPVVGEDYVEIPDGRPFAPLAGKIEVVEI-FG-YTCPHCA-HFDSKLQAWGARQAKDVRFTLVPAVFGGV-WDPFARAYLAADVLGVAKRS---------------H---------------------------TAMFEAIHEKGSVPIQNVGPDEL-----AVFYAGYGVQPDRFVATFNGPEVEKRFQAARAYALKVRPVGTPTIVVNGRYMVTGHDFEDTLRITDYLVSRERAASHG
+
 - seeing comparison done 
 release notes for client 0.1.3
 - added support for RCSB server calls.
